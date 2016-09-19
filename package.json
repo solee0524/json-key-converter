@@ -1,0 +1,27 @@
+{
+  "name": "json-key-converter",
+  "version": "1.0.0",
+  "description": "A tiny tool to convert JSON key from Camel to Underscore or from Underscore to Camel",
+  "main": "json-key-converter.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solee0524/json-key-converter.git"
+  },
+  "keywords": [
+    "json",
+    "key",
+    "underscore",
+    "camel",
+    "convert",
+    "converter"
+  ],
+  "author": "solee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solee0524/json-key-converter/issues"
+  },
+  "homepage": "https://github.com/solee0524/json-key-converter#readme"
+}
